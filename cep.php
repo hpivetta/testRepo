@@ -25,7 +25,7 @@ abre_conexao();
 		CodigoMunicipio = '$codigoMunicipio', 
 		Nome = '$nome', 
 		Uf = '$uf',
-		cep = '$cep' 
+		cep = '$cpp' 
 		WHERE Id = '$id'");
 	}
 			
